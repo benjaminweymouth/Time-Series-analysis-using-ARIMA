@@ -1,5 +1,5 @@
 
-[![TimeSeriesYenforFuture](https://github.com/benjaminweymouth/Time-Series-analysis-using-ARIMA/blob/main/images/headerimagev3.png)](https://github.com/benjaminweymouth/Time-Series-analysis-using-ARIMA)
+![image](https://user-images.githubusercontent.com/47256041/153651281-4a652947-405f-4248-b33b-8c7b3cbb6712.png)
 
 
 
