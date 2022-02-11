@@ -48,6 +48,6 @@ Follow the steps outlined in the regression_analysis starter notebook to complet
 4. Out-of-sample performance.
 5. In-sample performance.
 
-Use the results of the linear regression analysis and modelling to answer the following question:
 
-* Does this model perform better or worse on out-of-sample data compared to in-sample data?
+## Conclusions: 
+ 
