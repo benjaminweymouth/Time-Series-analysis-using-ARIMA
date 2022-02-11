@@ -198,9 +198,9 @@ cad_jpy_df[["Price"]].plot(figsize=(15,10), title="CAD/JPY Exchange Rates")
 
 
 
-    
-![png](output_6_1.png)
-    
+  ![image](https://user-images.githubusercontent.com/47256041/153656305-83a8250d-546f-4286-813b-51eb5ede4c07.png)
+  
+ 
 
 
 **Question:** Do you see any patterns, long-term and/or short? 
@@ -234,9 +234,10 @@ ts_trend.plot()
 
 
 
+![image](https://user-images.githubusercontent.com/47256041/153656368-2ff83a6a-fc35-4b71-835a-d586f8d819e2.png)
 
     
-![png](output_12_1.png)
+ 
     
 
 
@@ -337,7 +338,7 @@ combined_df.head()
 
 
     
-![png](output_15_1.png)
+![image](https://user-images.githubusercontent.com/47256041/153656411-e9467d74-02bf-43ff-9e60-71ce5409a32f.png)
     
 
 
@@ -362,7 +363,7 @@ ts_noise.plot(figsize=(15,10), title="Noise")
 
 
     
-![png](output_18_1.png)
+![image](https://user-images.githubusercontent.com/47256041/153656467-3ac14bd1-86b6-4942-aeb8-3ef57fb4035f.png)
     
 
 
@@ -612,7 +613,7 @@ pd.DataFrame(results.forecast(steps=5)[:]).plot(title="5 Day Returns Forecast")
 
 
     
-![png](output_28_1.png)
+![image](https://user-images.githubusercontent.com/47256041/153656540-aaad938a-03f9-4bb5-9bab-42e231496e07.png)
     
 
 
@@ -931,7 +932,7 @@ pd.DataFrame(results2.forecast(steps=5)[:]).plot(title="5 Day Futures Price Fore
 
 
     
-![png](output_40_2.png)
+![image](https://user-images.githubusercontent.com/47256041/153656598-6f930128-8099-4030-8074-1481a9792d4a.png)
     
 
 
@@ -1252,9 +1253,9 @@ final.plot(title="5 Day Forecast of Volatility")
 
 
 
+![image](https://user-images.githubusercontent.com/47256041/153656676-08dbfc4d-298d-460a-bbec-167863f93301.png)
 
-    
-![png](output_54_1.png)
+ 
     
 
 
