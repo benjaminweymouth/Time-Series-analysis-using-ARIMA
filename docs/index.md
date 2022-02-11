@@ -14,19 +14,12 @@ The financial departments of large companies often have to make foreign currency
 
 This repository uses time series analysis to predict future movements in the value of the Canadian dollar versus the Japanese yen.
 
-Specifically, this repo reflects two main parts:
-
-1. Time series forecasting
-
-[live link for time series](https://benjaminweymouth.github.io/Time-Series-analysis-using-ARIMA/TimeSeries/):
- 
-3. Linear regression modelling
-
-[live link for Linear regression](https://benjaminweymouth.github.io/Time-Series-analysis-using-ARIMA/LinearRegression/):
-
 ## Steps (in 2 main parts) 
 
 ## Part 1: Time-Series Forecasting
+
+[live link for time series](https://benjaminweymouth.github.io/Time-Series-analysis-using-ARIMA/TimeSeries/):
+
 The first step is to load historical CAD-JPY exchange rate data and apply time series analysis and modelling to determine if there is any predictable behaviour.
 
 Following that, these steps are executed:
@@ -42,6 +35,8 @@ Following that, these steps are executed:
 5. Forecasting volatility with GARCH.
 
 ## Part 2: Linear Regression Forecasting
+
+[live link for Linear regression](https://benjaminweymouth.github.io/Time-Series-analysis-using-ARIMA/LinearRegression/):
 
 In this notebook, you will build a Scikit-Learn linear regression model to predict CAD/JPY returns with *lagged* CAD/JPY futures returns and categorical calendar seasonal effects (e.g., day-of-week or week-of-year seasonal effects).
 
