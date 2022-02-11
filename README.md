@@ -65,10 +65,28 @@ In this notebook, you will build a Scikit-Learn linear regression model to predi
 Follow the steps outlined in the regression_analysis starter notebook to complete the following:
 
 1. Data preparation (creating returns and lagged returns, and splitting the data into training and testing data)
-2. Fitting a linear regression model.
-3. Making predictions using the testing data.
-4. Out-of-sample performance.
-5. In-sample performance.
+
+![image](https://user-images.githubusercontent.com/47256041/153658151-b8b7bc62-dd2f-49b2-95c8-4b63b2cc1970.png)
+
+
+3. Fitting a linear regression model.
+
+![image](https://user-images.githubusercontent.com/47256041/153658259-7967737e-4e7c-40fc-b312-9109202bb3f5.png)
+
+5. Making predictions using the testing data.
+
+![image](https://user-images.githubusercontent.com/47256041/153658312-f7a42024-7424-45c0-aa2f-fd03b60734af.png)
+
+
+7. Out-of-sample performance.
+
+![image](https://user-images.githubusercontent.com/47256041/153658394-d8f59155-7408-4d75-af86-06e975fa6a98.png)
+
+
+9. In-sample performance.
+
+![image](https://user-images.githubusercontent.com/47256041/153658434-a38474a2-fef3-4845-8e4d-1ccd75eb61c9.png)
+
 
 
 ## Conclusions: 
