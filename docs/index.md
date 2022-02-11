@@ -17,7 +17,12 @@ This repository uses time series analysis to predict future movements in the val
 Specifically, this repo reflects two main parts:
 
 1. Time series forecasting
-2. Linear regression modelling
+
+[live link for time series](https://benjaminweymouth.github.io/Time-Series-analysis-using-ARIMA/TimeSeries/):
+ 
+3. Linear regression modelling
+
+[live link for Linear regression](https://benjaminweymouth.github.io/Time-Series-analysis-using-ARIMA/LinearRegression/):
 
 ## Steps (in 2 main parts) 
 
