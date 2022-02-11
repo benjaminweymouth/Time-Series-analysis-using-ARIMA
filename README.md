@@ -14,7 +14,7 @@ The financial departments of large companies often have to make foreign currency
 
 This repository uses time series analysis to predict future movements in the value of the Canadian dollar versus the Japanese yen.
 
-Specifically, this repo reflects two core items:
+Specifically, this repo reflects two main parts:
 
 1. Time series forecasting
 2. Linear regression modelling
