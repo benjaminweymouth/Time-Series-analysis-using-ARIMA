@@ -51,3 +51,14 @@ Follow the steps outlined in the regression_analysis starter notebook to complet
 
 ## Conclusions: 
  
+Based on your time series analysis, would you buy the yen now?
+
+Answer: The volatility of the Yen indicated by the GARCH model indicates that purchasing the yen now would not be a wise investment option.
+
+Is the risk of the yen expected to increase or decrease?
+
+Answer: The volatility of the Yen predicts that the risk associated with the Yen is on the rise. However, it should be noted that this only a short term conclusion. In the future the risk may vary upwards or downwards depending on a variety of factors.
+
+Based on the model evaluation, would you feel confident in using these models for trading?
+
+Answer: The fit of a model should be determined by p-value >α. These models have shown that they are not a good fit, and would therefore require further modifications and calibrations to be fit for trading purposes. They could be tweaked, and over time may be suitable. But at the present time these p-values indicate that the models are not a good fit- and therefore not suitable for trading purposes.
