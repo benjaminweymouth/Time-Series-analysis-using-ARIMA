@@ -19,8 +19,9 @@ Specifically, this repo reflects two core items:
 1. Time series forecasting
 2. Linear regression modelling
 
-## Steps 
+## Steps (in 2 main parts) 
 
+## Part 1: Time-Series Forecasting
 The first step is to load historical CAD-JPY exchange rate data and apply time series analysis and modelling to determine if there is any predictable behaviour.
 
 Following that, these steps are executed:
@@ -34,3 +35,19 @@ Following that, these steps are executed:
 4. Forecasting the exchange rate price using an ARIMA model. The forecast may indicated what will happen to the Japanese Yen in the near term.
 
 5. Forecasting volatility with GARCH.
+
+## Part 2: Linear Regression Forecasting
+
+In this notebook, you will build a Scikit-Learn linear regression model to predict CAD/JPY returns with *lagged* CAD/JPY futures returns and categorical calendar seasonal effects (e.g., day-of-week or week-of-year seasonal effects).
+
+Follow the steps outlined in the regression_analysis starter notebook to complete the following:
+
+1. Data preparation (creating returns and lagged returns, and splitting the data into training and testing data)
+2. Fitting a linear regression model.
+3. Making predictions using the testing data.
+4. Out-of-sample performance.
+5. In-sample performance.
+
+Use the results of the linear regression analysis and modelling to answer the following question:
+
+* Does this model perform better or worse on out-of-sample data compared to in-sample data?
