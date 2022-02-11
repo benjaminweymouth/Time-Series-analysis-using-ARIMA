@@ -18,3 +18,19 @@ Specifically, this repo reflects two core items:
 
 1. Time series forecasting
 2. Linear regression modelling
+
+## Steps 
+
+The first step is to load historical CAD-JPY exchange rate data and apply time series analysis and modelling to determine if there is any predictable behaviour.
+
+Following that, these steps are executed:
+
+1. Plotting the Settle price to check for long or short-term patterns.
+
+2. Decomposition using a Hodrick-Prescott filter (decompose the settle price into trend and noise).
+
+3. Forecasting returns using an ARMA model. Based on the p-value, we can address if the model is a good fit.
+
+4. Forecasting the exchange rate price using an ARIMA model. The forecast may indicated what will happen to the Japanese Yen in the near term.
+
+5. Forecasting volatility with GARCH.
