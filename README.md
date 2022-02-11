@@ -51,7 +51,6 @@ Follow the steps outlined in the regression_analysis starter notebook to complet
 
 ## Conclusions: 
  
- 
 Based on your time series analysis, would you buy the yen now?
 
 Answer:
