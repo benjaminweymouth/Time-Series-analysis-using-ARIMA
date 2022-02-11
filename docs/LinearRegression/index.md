@@ -573,8 +573,7 @@ Results[:20].plot(subplots=True, figsize=(15,15))
 
 
     
-![png](output_18_1.png)
-    
+![image](https://user-images.githubusercontent.com/47256041/153656857-846bc129-66bd-4c0a-815e-b2e2f9984a26.png)
 
 
 # Out-of-Sample Performance
