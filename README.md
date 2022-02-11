@@ -33,13 +33,28 @@ Following that, these steps are executed:
 
 1. Plotting the Settle price to check for long or short-term patterns.
 
+![image](https://user-images.githubusercontent.com/47256041/153657740-c9a7d573-ee0b-4ea6-92d6-4d19e4ce8ef3.png)
+
+
 2. Decomposition using a Hodrick-Prescott filter (decompose the settle price into trend and noise).
+
+![image](https://user-images.githubusercontent.com/47256041/153657808-ae98de00-086c-469f-84ac-5795de2dbd30.png)
+
 
 3. Forecasting returns using an ARMA model. Based on the p-value, we can address if the model is a good fit.
 
+![image](https://user-images.githubusercontent.com/47256041/153657853-946c4485-67d4-44ff-a2c2-200625b619dc.png)
+
+
 4. Forecasting the exchange rate price using an ARIMA model. The forecast may indicated what will happen to the Japanese Yen in the near term.
 
+![image](https://user-images.githubusercontent.com/47256041/153657951-98137082-5eb1-4a61-b1f3-eab426afd5e0.png)
+
+
 5. Forecasting volatility with GARCH.
+
+![image](https://user-images.githubusercontent.com/47256041/153658005-62299bc3-75cf-4097-9613-ca309433e9e0.png)
+
 
 ## Part 2: Linear Regression Forecasting
 
